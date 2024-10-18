@@ -8,5 +8,7 @@ A Python-based project that clusters K-Dramas using KMeans and hierarchical clus
 
 **How to Run**
            Load your dataset in CSV format 
+           
            Ensure the dataset has relevant features such as Rating and Number of Episodes.
+           
            Run the script to visualize clustering and get recommendations based on user input.
